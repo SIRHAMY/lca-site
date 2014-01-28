@@ -1,0 +1,84 @@
+
+<!--<style>-->
+   <!--.row-->
+   <!--{-->
+       <!--max-width: 100%;-->
+       <!--height: 400px;-->
+       <!--max-height: 100%;-->
+       <!--text-align: center;-->
+       <!--overflow-x: hidden;-->
+   <!--}-->
+   <!--.coa{-->
+       <!--padding-right: 30px;-->
+   <!--}-->
+
+    <!--.title{-->
+
+        <!--padding-left: 20px;-->
+    <!--}-->
+<!--</style>-->
+
+
+  <!--<div id="whogreen">-->
+      <!--<h1 class="title">Who We Are</h1>-->
+    <!--<p  class="row"> <br><br><br><img src="img/coa.png" class="coa pull-right">-->
+        <!--blahblahblah-->
+    <!--</p>-->
+  <!--</div>-->
+  <!--<div id="whogold">-->
+      <!--<h1 class="title">What We Do</h1>-->
+    <!--<p  class="row" style="background-color: #FAE64D;">Frat</p>-->
+  <!--</div>-->
+  <!--<div id="whopurp">-->
+      <!--<h1 class="title">Who We Slay</h1>-->
+    <!--<p  class="row" style="background-color: #E1C7EB;">Frat</p>-->
+  <!--</div>-->
+
+<script>
+    $(document).ready(function(){
+        $('section[data-type="background"]').each(function(){
+            var $bgobj = $(this); // assigning the object
+
+            $(window).scroll(function() {
+                var yPos = -($window.scrollTop() / $bgobj.data('speed'));
+
+                // Put together our final background position
+                var coords = '50% '+ yPos + 'px';
+
+                // Move the background
+                $bgobj.css({ backgroundPosition: coords });
+            });
+        });
+    });
+</script>
+<link rel="stylesheet" href="css/aboutus.css">
+<div class="wrapper">
+
+    <div id="home" data-type="background" data-speed="10" class="demo x blurs">
+        <article>
+            <h1 class="title" >About Us</h1><br>
+            "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+        </article>
+    </div>
+
+    <div id="sec2" data-type="background" data-speed="10" class="demo x blurs">
+        <article>
+            <h1 class="title" >Tradition</h1><br>
+            "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+        </article>
+    </div>
+    <div id="sec3" data-type="background" data-speed="10" class="demo x blurs">
+        <article>
+            <h1 class="title" >The Thrill</h1><br>
+            "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+        </article>
+    </div>
+    <div id="sec4" data-type="background" data-speed="10" class="demo x blurs">
+        <article>
+            <h1 class="title" >The Network</h1><br>
+            "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+        </article>
+    </div>
+
+</div>
+

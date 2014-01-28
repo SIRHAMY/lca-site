@@ -1,0 +1,43 @@
+
+<style>
+    #snip{padding-top: 2px;}
+    #sidebar{padding-left: 20px;}
+    .styled-sort{
+        width: 200px;
+        height: 34px;
+        overflow: hidden;
+        /*background: url(new_arrow.png) no-repeat right #ddd;*/
+        border: 1px solid #ccc;
+    }
+</style>
+
+<div class="container-fluid" id="listBody">
+
+  <div class="row" id="sidebar">
+      <!--Sidebar content-->
+    <div class="col-lg-2" >
+
+
+      Search:<br> <input ng-model="query" class="styled-sort"><br><br>
+      Sort by: <br>
+      <select ng-model="orderProp" class="styled-sort">
+        <option value="name">Alphabetical</option>
+        <option value="age">BK</option>
+      </select>
+      <br><br>
+    </div>
+    <div class="col-lg-9">
+      <!--Body content-->
+
+      <ul class="brothers">
+        <li ng-repeat="brother in brothers | filter:query | orderBy:orderProp" class="thumbnail">
+          <a href="#/brothers/{{brother.id}}" class="thumb"><img ng-src="{{brother.imageUrl}}" class="thumb"></a>
+          <a href="#/brothers/{{brother.id}}">{{brother.name}}</a>
+          <p id="snip">{{brother.snippet}} <br> BK {{brother.age}}</p>
+
+        </li>
+      </ul>
+
+    </div>
+  </div>
+</div>

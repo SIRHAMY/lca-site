@@ -1,0 +1,37 @@
+{
+    "bk": "1804",
+    "description": "Old man out in the real world",
+    "aspects": "The Penthouse, Bros, Mace Face,Gamedays, Formal, Senior Stories",
+    "positions": [
+
+     ],
+    "year": "Graduated 2013",
+    "major":  "Mechanical Engineering",
+    "involve": [
+        "Oxford Study Abroad 2011"
+    ],
+    "interests": [
+        "GT Athletics",
+        "Basketball",
+        "Roadtrips",
+        "Climbing"
+    ],
+    "sports": [
+        "Basketball",
+        "Running",
+        "Climbing",
+        "Snowboarding"
+    ],
+    "quotes" : [
+        "\"Are you kidding me\""
+    ],
+
+
+    "id": "jacobbushey",
+    "images": [
+        "img/brothers/bushey.0.jpg",
+        "img/brothers/bushey.1.jpg",
+        "img/brothers/bushey.2.jpg"
+    ],
+    "name": "Jacob Bushey"
+}

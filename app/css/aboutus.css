@@ -1,0 +1,111 @@
+/*// Extend the sides and styles of your elements*/
+/*// Still testing. Feedback appreciated.*/
+/*//*/
+/*// NOTE: You need to add overflow: hidden to both body and html*/
+
+
+@mixin epic-sides() {
+    position: relative;
+    z-index: 1;
+
+    &:before {
+        position: absolute;
+        content: "";
+        display: block;
+        top: 0;
+        left: -5000px;
+        height: 100%;
+        width: 15000px;
+        z-index: -1;
+        @content;
+    }
+}
+
+html,
+body {
+    overflow-x: hidden;
+    background: #2E2E2E;
+}
+.title{
+    padding-bottom: 10px;
+}
+.wrapper {
+    margin: auto;
+    width: 100%;
+    color: #154c24;
+    text-align: center;
+    background: #3C3C3C;
+    overflow: visible;
+
+}
+.demo {
+    padding: 30px 15px;
+    color: #ecf0f1;
+    /*background: lighten(#3C3C3C, 5%);*/
+}
+.x {
+    background: #2C6700;
+    background-image: url("../img/houseblur.jpg") ;
+}
+.a {
+    background: #FFCF79;
+}
+.b {
+    background: #8C489F;
+}
+.c {
+    background: rgba(255,255,255,.3);
+}
+
+.blurs {
+    height: 600px;
+    margin: 0 auto;
+    width: 100%;
+    max-width: 1920px;
+    position: relative;
+    border-bottom: solid #000000;
+}
+#home {
+    background: url("../img/houseblur.jpg") 50% 0 repeat fixed; min-height: 600px;
+}
+
+
+#home article {
+    height: 458px;
+    position: absolute;
+    text-align: center;
+    top: 70px;
+    width: 100%;
+}
+#sec2 {
+    background: url("../img/gameblur.jpg") 50% 0 repeat fixed; min-height: 600px;
+}
+
+#sec2 article {
+    height: 458px;
+    position: absolute;
+    text-align: center;
+    top: 50px;
+    width: 100%;
+}
+#sec3 {
+    background: url("../img/mix.jpg") 50% 0 repeat fixed; min-height: 600px;
+}
+#sec3 article {
+    height: 458px;
+    position: absolute;
+    text-align: center;
+    top: 50px;
+    width: 100%;
+}
+
+#sec4 {
+    background: url("../img/cocktailblur.jpg") 50% 0 repeat fixed; min-height: 600px;
+}
+#sec4 article {
+    height: 458px;
+    position: absolute;
+    text-align: center;
+    top: 50px;
+    width: 100%;
+}
