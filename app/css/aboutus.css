@@ -25,6 +25,7 @@ html,
 body {
     overflow-x: hidden;
     background: #2E2E2E;
+
 }
 .title{
     padding-bottom: 10px;
@@ -43,10 +44,8 @@ body {
     color: #ecf0f1;
     /*background: lighten(#3C3C3C, 5%);*/
 }
-.x {
-    background: #2C6700;
-    background-image: url("../img/houseblur.jpg") ;
-}
+
+
 .a {
     background: #FFCF79;
 }
@@ -64,21 +63,27 @@ body {
     max-width: 1920px;
     position: relative;
     border-bottom: solid #000000;
+
 }
 #home {
-    background: url("../img/houseblur.jpg") 50% 0 repeat fixed; min-height: 600px;
+    /*background: url("../img/houseblur2.jpg") 100% 0 fixed; min-height: 600px;*/
+    background-color: #;
 }
 
 
 #home article {
-    height: 458px;
+    height: 550px;
     position: absolute;
     text-align: center;
-    top: 70px;
+
     width: 100%;
+    font-size: 25px;
+
+
 }
 #sec2 {
-    background: url("../img/gameblur.jpg") 50% 0 repeat fixed; min-height: 600px;
+    /*background: url("../img/gameblur.jpg") 50% 0 repeat fixed; min-height: 600px;*/
+    background-color: #daa520;
 }
 
 #sec2 article {
