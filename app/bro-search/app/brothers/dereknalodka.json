@@ -1,31 +1,37 @@
 {
     "bk": "1938",
-    "description": "Been ballin since 1993",
-    "aspects": "My bros, Intramurals - Especailly basketball, Gamedays at the house, The diversity, Semi-formals/Formals, Magic Carpet Ride, Watermelon Bust, Mason, Chicken Finger Wednesday",
+    "description": "I am an Industrial Engineering major from Austin, Texas, but am slowly becoming an ATLien. I was in the Fall '12 AM class; BK 1938. Been ballin since 1993.",
+    "aspects": "My bros, Intramurals - Especially basketball, Gamedays at the house, The diversity, Semi-Formals/Formals, Magic Carpet Ride, Chicken Finger Wednesday, Living in the house ",
     "positions": [
-     "Omega : Sports Chairman, 2012-2013"
+     "Omega: Sports Chairman (2013)",
+     "High Beta: Internal Vice President (2014)"
      ],
-    "year": "Sophomore",
-    "major":  "Industrial Engineering",
+    "year": "Class of 2016",
+    "major":  "Industrial and Systems Engineering",
     "involve": [
-        "Oxford Study Abroad 2013",
-       "Going to become more involved around campus and the house this year"
+        "Georgia Tech Oxford Study Abroad (2013)",
+        "Engineering Co-Op at Coca-Cola Refreshments (2014-Present)",
+        "FASET Orientation Leader (2014)"
     ],
     "interests": [
-        "GT Athletics",
-        "Intermurals",
-        "ADPis",
-        "Griffin"
+        "Playing/watching sports",
+        "Hanging out w/ bros",
+        "Chillin",
+        "Music",
+        "Concerts/festivals",
+        "Working out",
+        "Traveling"
     ],
     "sports": [
         "Basketball",
         "Soccer",
-        "Lifting",
-        "Running",
-        "I'll play anything"
+        "Football",
+        "Wallyball",
+        "Sand Volleyball",
+        "Softball"
     ],
     "quotes" : [
-        "\"Our deepest fear is not that we are inadequate. Our deepest fear is that we are powerful beyond measure. It is our light, not our darkness, that most frightens us. Playing small does not serve the world. There is nothing enlightened about shrinking so that other people won't feel insecure around you. We were all meant to shine as children do. It's not just in some of us - it's in everyone. And as we let our own light shine we unconsciously give other people the permission to do the same. As we are liberated from our own fear, our presence automatically liberates others.\""
+        "\"Flacko put 'em in the dirt.\""
     ],
 
 
@@ -33,8 +39,7 @@
     "images": [
         "img/brothers/nalodka.0.jpg",
         "img/brothers/nalodka.1.jpg",
-        "img/brothers/nalodka.2.jpg",
-        "img/brothers/nalodka.3.jpg"
+        "img/brothers/nalodka.2.jpg"
     ],
     "name": "Derek Nalodka"
 }
