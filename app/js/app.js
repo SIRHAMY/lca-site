@@ -14,7 +14,7 @@ angular.module('lca-site', ['brosearch']).
       .when('/aboutus',
       {
           controller: 'PageCtrl',
-          templateUrl: 'partials/example.html'
+          templateUrl: 'partials/aboutus.html'
       })
       .when('/brothers',
       {
