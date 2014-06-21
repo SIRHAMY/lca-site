@@ -28,6 +28,13 @@
         "snippet": "Clark"
     },
     {
+        "age": 1852,
+        "id": "scottgeary",
+        "imageUrl": "img/brothers/geary.0.jpg",
+        "name": "Scott Geary",
+        "snippet": "Papa G"
+    },
+    {
         "age": 1860,
         "id": "ryannolan",
         "imageUrl": "img/brothers/rnolan.0.jpg",
@@ -49,6 +56,13 @@
         "snippet": "Mason's a girl!"
     },
     {
+        "age": 1868,
+        "id": "mattbrooks",
+        "imageUrl": "img/brothers/brooks.0.jpg",
+        "name": "Matt Brooks",
+        "snippet": "Sweetbutta"
+    },
+    {
         "age": 1882,
         "id": "ajalix",
         "imageUrl": "img/brothers/alix.0.jpg",
@@ -61,6 +75,20 @@
         "imageUrl": "img/brothers/amsbaugh.0.jpg",
         "name": "Jake Amsbaugh",
         "snippet": "Amsbro"
+    },
+    {
+        "age": 1888,
+        "id": "justingray",
+        "imageUrl": "img/brothers/gray.0.jpg",
+        "name": "Justin Gray",
+        "snippet": "JGray"
+    },
+    {
+        "age": 1896,
+        "id": "jonathanvallecillo",
+        "imageUrl": "img/brothers/vallecillo.0.jpg",
+        "name": "Jonathan Vallecillo",
+        "snippet": "J-Val"
     },
     {
         "age": 1897,
@@ -77,11 +105,25 @@
         "snippet": "Trey"
     },
     {
+        "age": 1906,
+        "id": "kevinarpin",
+        "imageUrl": "img/brothers/arpin.0.jpg",
+        "name": "Kevin Arpin",
+        "snippet": "Kev"
+    },
+    {
         "age": 1916,
         "id": "hamiltongreene",
         "imageUrl": "img/brothers/greene.0.jpg",
         "name": "Hamilton Greene",
         "snippet": "Slow Motion"
+    },
+    {
+        "age": 1919,
+        "id": "andrewosborn",
+        "imageUrl": "img/brothers/osborn.0.jpg",
+        "name": "Andrew Osborn",
+        "snippet": "Ossy"
     },
     {
         "age": 1920,
@@ -98,6 +140,20 @@
         "snippet": "Jackson"
     },
     {
+        "age": 1922,
+        "id": "zachplummer",
+        "imageUrl": "img/brothers/plummer.0.jpg",
+        "name": "Zach Plummer",
+        "snippet": "Plum"
+    },
+    {
+        "age": 1923,
+        "id": "willmcallister",
+        "imageUrl": "img/brothers/mcallister.0.jpg",
+        "name": "Will Mcallister",
+        "snippet": "Will"
+    },
+    {
         "age": 1925,
         "id": "stuarttaute",
         "imageUrl": "img/brothers/taute.0.jpg",
@@ -110,6 +166,13 @@
         "imageUrl": "img/brothers/wellden.0.jpg",
         "name": "Robby Wellden",
         "snippet": "Robby"
+    },
+    {
+        "age": 1932,
+        "id": "benmarquis",
+        "imageUrl": "img/brothers/marquis.0.jpg",
+        "name": "Ben Marquis",
+        "snippet": "Soldier"
     },
     {
         "age": 1935,
@@ -140,10 +203,122 @@
         "snippet": "Dirk"
     },
     {
+        "age": 1939,
+        "id": "leehagoodjames",
+        "imageUrl": "img/brothers/hagoodjames.0.jpg",
+        "name": "Lee Hagood-James",
+        "snippet": "Lee"
+    },
+    {
+        "age": 1940,
+        "id": "gordonnail",
+        "imageUrl": "img/brothers/nail.0.jpg",
+        "name": "Gordon Nail",
+        "snippet": "Swainsboro"
+    },
+    {
+        "age": 1944,
+        "id": "michaelzuppa",
+        "imageUrl": "img/brothers/zuppa.0.jpg",
+        "name": "Michael Zuppa",
+        "snippet": "Zuppa"
+    },
+    {
         "age": 1945,
         "id": "jordancain",
         "imageUrl": "img/brothers/cain.0.jpg",
         "name": "Jordan Cain",
         "snippet": "Jordan"
+    },
+    {
+        "age": 1947,
+        "id": "charliehanzel",
+        "imageUrl": "img/brothers/hanzel.0.jpg",
+        "name": "Charlie Hanzel",
+        "snippet": "Cali"
+    },
+    {
+        "age": 1951,
+        "id": "aaronsolender",
+        "imageUrl": "img/brothers/solender.0.jpg",
+        "name": "Aaron Solender",
+        "snippet": "Big baby"
+    },
+    {
+        "age": 1952,
+        "id": "grantherman",
+        "imageUrl": "img/brothers/herman.0.jpg",
+        "name": "Grant Herman",
+        "snippet": "herm_2.0"
+    },
+    {
+        "age": 1954,
+        "id": "marcusfisher",
+        "imageUrl": "img/brothers/fisher.0.jpg",
+        "name": "Marcus Fisher",
+        "snippet": "Marcus"
+    },
+    {
+        "age": 1958,
+        "id": "soheilfaghihi",
+        "imageUrl": "img/brothers/faghihi.0.jpg",
+        "name": "Soheil Faghihi",
+        "snippet": "SoChill"
+    },
+    {
+        "age": 1959.5,
+        "id": "benhaverly",
+        "imageUrl": "img/brothers/haverly.0.jpg",
+        "name": "Ben Haverly",
+        "snippet": "Ben"
+    },
+    {
+        "age": 1959,
+        "id": "zandyrizzo",
+        "imageUrl": "img/brothers/rizzo.0.jpg",
+        "name": "Zandy Rizzo",
+        "snippet": "Zandy"
+    },
+    {
+        "age": 1960,
+        "id": "drewmiddleton",
+        "imageUrl": "img/brothers/middleton.0.jpg",
+        "name": "Drew Middleton",
+        "snippet": "Drew"
+    },
+    {
+        "age": 1961,
+        "id": "tylerquill",
+        "imageUrl": "img/brothers/quill.0.jpg",
+        "name": "Tyler Quill",
+        "snippet": "T-Quill"
+    },
+    {
+        "age": 1964,
+        "id": "connorlakofka",
+        "imageUrl": "img/brothers/lakofka.0.jpg",
+        "name": "Connor Lakofka",
+        "snippet": "Connor"
+    },
+    {
+        "age": 1966,
+        "id": "lukerunyan",
+        "imageUrl": "img/brothers/runyan.0.jpg",
+        "name": "Luke Runyan",
+        "snippet": "Luke"
+    },
+    {
+        "age": 1968,
+        "id": "alexwandrick",
+        "imageUrl": "img/brothers/wandrick.0.jpg",
+        "name": "Alex Wandrick",
+        "snippet": "Wandy"
+    },
+    {
+        "age": 1969,
+        "id": "jayshah",
+        "imageUrl": "img/brothers/shah.0.jpg",
+        "name": "Jay Shah",
+        "snippet": "J-Shah"
     }
 ]
