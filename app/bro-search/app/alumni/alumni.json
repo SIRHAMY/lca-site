@@ -1,0 +1,51 @@
+[
+    {
+        "age": 1827,
+        "id": "colinvanatta",
+        "imageUrl": "img/brothers/vanatta.0.jpg",
+        "name": "Colin Vanatta",
+        "snippet": "Vanatta"
+    },
+    {
+        "age": 1835,
+        "id": "patrickslane",
+        "imageUrl": "img/brothers/slane.0.jpg",
+        "name": "Patrick Slane",
+        "snippet": "PSlane"
+    },
+    {
+        "age": 1842,
+        "id": "matthewcoonrod",
+        "imageUrl": "img/brothers/coonrod.0.jpg",
+        "name": "Matthew Coonrod",
+        "snippet": "The coon"
+    },
+    {
+        "age": 1845,
+        "id": "clarkhowell",
+        "imageUrl": "img/brothers/howell.0.jpg",
+        "name": "Clark Howell",
+        "snippet": "Clark"
+    },
+    {
+        "age": 1852,
+        "id": "scottgeary",
+        "imageUrl": "img/brothers/geary.0.jpg",
+        "name": "Scott Geary",
+        "snippet": "Papa G"
+    },
+    {
+        "age": 1882,
+        "id": "ajalix",
+        "imageUrl": "img/brothers/alix.0.jpg",
+        "name": "AJ Alix",
+        "snippet": "AJ"
+    },
+    {
+        "age": 1896,
+        "id": "jonathanvallecillo",
+        "imageUrl": "img/brothers/vallecillo.0.jpg",
+        "name": "Jonathan Vallecillo",
+        "snippet": "J-Val"
+    }
+]

@@ -1,0 +1,42 @@
+{
+    "bk": "1861",
+    "description": "Hanging out.",
+    "aspects": "Gamedays, Cocktail Party, Bro Retreat, Beer Olympics",
+    "positions": [
+        "High Tau : Treasurer, 2013",
+        "High Gamma : Secretary, 2012"
+     ],
+    "year": "Class of 2015",
+    "major":  "Biomedical Engineering",
+    "involve": [
+        "MedShape",
+       "Connective Tutoring",
+        "Technology and Management Program",
+        "Executive Round Table",
+        "Connect with Tech"
+    ],
+    "interests": [
+        "250 club",
+        "Mason",
+        "Wii U",
+        "Hudson"
+    ],
+    "sports": [
+        "Football",
+        "Cornhole",
+        "Wallyball",
+        "Lifting"
+    ],
+    "quotes" : [
+        "\"Winter is coming\""
+    ],
+
+
+    "id": "shanegizzi",
+    "images": [
+        "img/brothers/gizzi.0.jpg",
+        "img/brothers/gizzi.1.jpg",
+        "img/brothers/gizzi.2.jpg"
+    ],
+    "name": "Shane Gizzi"
+}

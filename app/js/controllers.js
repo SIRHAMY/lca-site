@@ -15,7 +15,7 @@ function PageCtrl($scope){
 
 function BrotherListCtrl($scope, Brother) {
     $scope.brothers = Brother.query();
-    $scope.orderProp = 'age';
+    $scope.orderProp = 'bk';
 }
 
 //BrotherListCtrl.$inject = ['$scope', 'Brother'];
@@ -30,8 +30,3 @@ function BrotherDetailCtrl($scope, $routeParams, Brother) {
         $scope.mainImageUrl = imageUrl;
     }
 }
-
-
-
-
-

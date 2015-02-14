@@ -1,0 +1,41 @@
+{
+    "bk": "1961",
+    "description": "Definitely Upper Mids",
+    "aspects": "Living in the house, Gamedays, Formals, Learning from all the older guys, Magic Carpet Ride, Brotherhood",
+    "positions": [
+     ],
+    "year": "Class of 2017",
+    "major":  "Materials Science and Engineering",
+    "involve": [
+        "Freshman Activities Board Sophomore Advisor", 
+        "InstaEDU Tutor", 
+        "Student Alumni Association", 
+        "Georgia Tech Student Foundation"
+    ],
+    "interests": [
+        "Fishing",
+        "Backpacking",
+        "Basically anything outdoors",
+        "Scuba Diving",
+        "Blondes"
+    ],
+    "sports": [
+        "Hockey",
+        "Golf",
+        "Climbing",
+        "Ultimate"
+    ],
+    "quotes" : [
+       "\"Not now, Nyquill is with his boys\""
+    ],
+
+
+    "id": "tylerquill",
+    "images": [
+        "img/brothers/quill.0.jpg",
+        "img/brothers/quill.1.jpg",
+        "img/brothers/quill.2.jpg",
+        "img/brothers/quill.3.jpg"
+    ],
+    "name": "Tyler Quill"
+}

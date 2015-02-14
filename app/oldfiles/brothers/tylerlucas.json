@@ -1,0 +1,59 @@
+{
+    "bk": "1897",
+    "description": "Choppers on Top.",
+    "aspects": "The Bros, Watermelon Bust, Mason the Dog, Cocktail Parties, Gamedays, TUG, Mixers, Date Nights, Beer Olympics, The Network, The House, The female friends.",
+    "positions": [
+            "T-Shirt Chair, 2012"
+     ],
+    "year": "Class of 2015",
+    "major":  "Computer Science",
+    "involve": [
+            "SDE Intern, Amazon.com 2014",
+            "GTRI SA Software Developer 2014",
+            "Barcelona Study Abroad 2013",
+            "Co-op at Autotrader.com 2013",
+            "FASET Orientation Leader 2012",
+            "Freshman Activities Board 2011"
+
+    ],
+    "interests": [
+       "GT Athletics",
+       "Web Development",
+       "Music",
+       "Roadtrips",
+       "Traveling",
+       "Gaming",
+       "Technology",
+       "Movies",
+       "Entrepreneurship",
+       "Instagram Straight Flexin"
+
+    ],
+    "sports": [
+        "Soccer",
+        "Running",
+        "Climbing",
+        "Snowboarding",
+        "Lifting",
+        "Boxing",
+        "The occasional B-Ball"
+    ],
+    "quotes" : [
+      "\"The Universe is constantly conspiring to enlighten you.\"",
+      "\"To succeed, jump as quickly at opportunities as you do at conclusions.\"",
+      "\"To own is to be able to give.\"",
+      "\"To travel fast, travel light.\""
+    ],
+
+
+    "id": "tylerlucas",
+
+    "images": [
+        "img/brothers/tyler.0.jpg",
+        "img/brothers/tyler.1.jpg",
+        "img/brothers/tyler.2.jpg",
+        "img/brothers/tyler.3.jpg",
+        "img/brothers/tyler.4.jpg"
+    ], 
+    "name": "Tyler Lucas"
+}

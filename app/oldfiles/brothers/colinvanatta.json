@@ -1,0 +1,35 @@
+{
+    "bk": "1827",
+    "description": "Alumni and former officer.",
+    "aspects": "Football tailgates and formal.",
+    "positions": [
+     "High Alpha : Interim President, Summer 2013",
+     "High Phi : Fraternity Ritualist, 2012"
+     ],
+    "year": "Class of 2013",
+    "major":  "Aerospace Engineering",
+    "involve": [
+        "Oxford Study Abroad 2011",
+        "GT Intramurals: Supervisor and New Offical Trainer",
+        "Oxford Study Abroad 2011"
+    ],
+    "interests": [
+        "Hunting, Saltwater Fishing, Golf, College Football, the Braves and Falcons, Traveling"
+    ],
+    "sports": [
+        "Baseball",
+        "Golf"
+    ],
+    "quotes" : [
+        "\"I'm doing what they won't so that one day I can live like they can't\""
+    ],
+
+
+    "id": "colinvanatta",
+    "images": [
+        "img/brothers/vanatta.0.jpg",
+        "img/brothers/vanatta.1.jpg",
+        "img/brothers/vanatta.2.jpg"
+    ],
+    "name": "Colin Vanatta"
+}

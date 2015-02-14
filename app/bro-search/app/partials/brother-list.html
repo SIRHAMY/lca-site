@@ -11,6 +11,7 @@
     }
 </style>
 
+
 <div class="container-fluid" id="listBody">
 
   <div class="row" id="sidebar">
@@ -22,7 +23,7 @@
       Sort by: <br>
       <select ng-model="orderProp" class="styled-sort">
         <option value="name">Alphabetical</option>
-        <option value="age">BK</option>
+        <option value="bk">BK</option>
       </select>
       <br><br>
     </div>
@@ -33,7 +34,7 @@
         <li ng-repeat="brother in brothers | filter:query | orderBy:orderProp" class="thumbnail">
           <a href="#/brothers/{{brother.id}}" class="thumb"><img ng-src="{{brother.imageUrl}}" class="thumb"></a>
           <a href="#/brothers/{{brother.id}}">{{brother.name}}</a>
-          <p id="snip">{{brother.snippet}} <br> BK {{brother.age}}</p>
+          <p id="snip"> BK {{brother.bk}} </p>
 
         </li>
       </ul>

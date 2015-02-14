@@ -12,8 +12,10 @@
 
 <p id="bk"><b>BK</b> {{brother.bk}}</p>
 
-<p><b>Description: </b>{{brother.description}}</p>
-<p><b>Favorite Aspects of Lambda Chi Alpha: </b>{{brother.aspects}}</p>
+<p><b>Hometown: </b>{{brother.hometown}}</p>
+<p><b>Major: </b>{{brother.major}}</p>
+<p><b>Favorite aspects of Lambda Chi Alpha: </b>{{brother.aspects}}</p>
+<p><b>Big Brother: </b></p>
 <span id="position"><b>Positions Held:</b></span><p ng-repeat="item in brother.positions">{{item}}</p>
 
 
@@ -22,7 +24,7 @@
     <img ng-src="{{img}}" ng-click="setImage(img)">
   </li>
 </ul>
-
+<!--
 <ul class="specs">
   <li>
     <span>Year</span>
@@ -61,3 +63,4 @@
         </dl>
     </li>
 </ul>
+!-->
